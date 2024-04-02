@@ -1,4 +1,4 @@
--- Loja Online MySQL Database
+## Loja Online MySQL Database
 
 Este repositório contém um conjunto de comandos SQL para criar e popular um banco de dados MySQL para uma loja online, incluindo tabelas para clientes, produtos, pedidos, itens de pedido, pagamentos e funcionários. Este é um projeto de estudo, criado com o objetivo de praticar e aprimorar habilidades em bancos de dados MySQL.
 
