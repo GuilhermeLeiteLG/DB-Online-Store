@@ -37,3 +37,6 @@ JOIN itens_pedido ON pedidos.id = itens_pedido.pedido_id
 JOIN produtos ON itens_pedido.produto_id = produtos.id
 LEFT JOIN pagamentos ON pedidos.id = pagamentos.pedido_id
 WHERE pedidos.id = 1;
+
+
+Este conjunto de comandos SQL serve como uma base sólida para explorar e entender os conceitos fundamentais de bancos de dados MySQL no contexto de uma loja online. Fique à vontade para utilizá-lo e adaptá-lo conforme necessário para seus próprios projetos de estudo!
